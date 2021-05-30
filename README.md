@@ -2,6 +2,8 @@
 
 *I like to explore new things and make things for everyone ! Currently, the main languages I use are JavaScript, HTML, and CSS.*
 
+# I'm currently working on my first BIG PROJECT! 
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adatta1276&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
