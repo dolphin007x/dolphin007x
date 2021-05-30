@@ -2,9 +2,9 @@
 
 *I like to explore new things and make things for everyone ! Currently, the main languages I use are :
 
->Javascript
->HTML
->CSS
+Javascript
+HTML
+CSS *
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
