@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact: I'm always exploring new stuff, literally every day!
 
-- 📫 How to reach me: [Adatta1276](mailto:innovcoder22@gmail.com) ;  
+
 
 
 <br>
