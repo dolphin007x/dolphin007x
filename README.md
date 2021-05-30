@@ -10,15 +10,15 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂️ About Me
-- 💻 I’m currently working on something cool :wink: ;
+- 💻 I’m currently working on something really nice :wink: ;
 
-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
+- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **open source stuff**
 
-- 💬 Ask me about anything, I am happy to help ;
+- 💬 Ask me about anything, I'm happy to help! 😁 ;
 
-- ⚡ Fun fact: Computers fascinate me more than humans !
+- ⚡ Fun fact: I'm always exploring new stuff, literally every day!
 
-- 📫 How to reach me: [Ayush Parikh](https://www.linkedin.com/in/ayush-parikh332/) ;  
+- 📫 How to reach me: [Adatta1276](mailto:innovcoder22@gmail.com) ;  
 
 
 <br>
