@@ -5,7 +5,7 @@
 
 *I like to explore new things and make things for everyone ! Currently, the main languages I use are JavaScript, HTML, and CSS.*
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<img src="https://camo.githubusercontent.com/783d4a65a3bff2f3e6203e82ed857cf815a2d093aa9a574252f1a23bf4bc0805/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d706167652e6964"></img>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
