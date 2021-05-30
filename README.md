@@ -5,6 +5,8 @@
 
 *I like to explore new things and make things for everyone ! Currently, the main languages I use are JavaScript, HTML, and CSS.*
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 # I'm currently working on my first BIG PROJECT! 
 
 
