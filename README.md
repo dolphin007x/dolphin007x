@@ -5,7 +5,7 @@
 
 *I like to explore new things and make things for everyone ! Currently, the main languages I use are JavaScript, HTML, and CSS.*
 
-![Visitor Count](https://profile-counter.glitch.me/{adatta1276}/count.svg)
+
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
