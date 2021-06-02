@@ -32,9 +32,7 @@
 
 
 ## 📊 My Github Stats
-<div align="center">
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=adatta1276&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>
-<p align="right"> <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adatta1276&layout=compact&langs_count=8&theme=algolia &bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>  </div>
+<img align="center" alt="adatta1276 Github Stats" src="https://github-readme-stats.vercel.app/api?username=adatta1276&show_icons=true&hide_border=true&theme=dracula" />
  
 
  
