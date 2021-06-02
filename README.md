@@ -36,7 +36,7 @@
  
 
  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=adatta1276&theme=dracula&background=005AA7&ring=FC5C7D&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D&border=DD2727" alt="adatta1276" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=adatta1276&theme=dracula&background=000&ring=FFF&dates=FFFFFFFF&currStreakLabel=FC5C7D&hide_border=true&fire=D4431D&" alt="adatta1276" /></p>
 <details> <summary align="center"> </samp></summary><b>Note:</b>My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.</details>
 
 ---
