@@ -32,7 +32,7 @@
 
 
 ## 📊 My Github Stats
-<img align="center" alt="adatta1276 Github Stats" src="https://github-readme-stats.vercel.app/api?username=adatta1276&show_icons=true&hide_border=true&theme=dracula" />
+<img align="center" alt="adatta1276 Github Stats" src="https://github-readme-stats.vercel.app/api?username=adatta1276&show_icons=true&hide_border=true&theme=dracula&background=000" />
  
 
  
