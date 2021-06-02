@@ -7,7 +7,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/me.gif">
 
 ## 🙋‍♂️ About Me
 - 💻 I’m currently working on something really nice :wink: ;
