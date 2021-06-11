@@ -48,7 +48,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=adatta1276&column=7"/>
   </a>
 </div>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<img src="https://readme-jokes.vercel.app/api" alt="reload"></img>
 
 ---
 <!---
