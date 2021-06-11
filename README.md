@@ -53,3 +53,5 @@
 <!---
 [![Adatta1276's github activity graph](https://activity-graph.herokuapp.com/graph?username=adatta12766&theme=dracula&area=true)](https://github.com/adatta1276)
 <br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
