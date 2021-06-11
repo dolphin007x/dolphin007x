@@ -48,10 +48,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=adatta1276&column=7"/>
   </a>
 </div>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 <!---
 [![Adatta1276's github activity graph](https://activity-graph.herokuapp.com/graph?username=adatta12766&theme=dracula&area=true)](https://github.com/adatta1276)
 <br>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
