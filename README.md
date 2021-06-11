@@ -20,13 +20,11 @@
 - ⚡ Fun fact: I'm always exploring new stuff, literally every day!
 
 
+<br>
 
  <h4>Some Jokes LOL</h4>
 
 <img src="https://readme-jokes.vercel.app/api" alt="reload"></img>
-
-
-<br>
 
 
 ## 🚀 Languages and Tools:
