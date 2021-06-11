@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: I'm always exploring new stuff, literally every day!
 
-<br>
+
 
  <h4>Some Jokes LOL</h4>
 
