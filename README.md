@@ -22,7 +22,11 @@
 
 <br>
 
- <h4>Some Jokes LOL</h4>
+```QUICK UPDATES```
+
+## @ 12 June : Hey everyone! 
+
+ <h4>Some Jokes : </h4>
 
 <img src="https://readme-jokes.vercel.app/api" alt="reload"></img>
 
