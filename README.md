@@ -28,7 +28,7 @@
 
  <h4>Some Jokes : </h4>
 
-<img src="https://readme-jokes.vercel.app/api" alt="reload"></img>
+<img src="https://readme-jokes.vercel.app/api" ></img>
 
 
 ## 🚀 Languages and Tools:
