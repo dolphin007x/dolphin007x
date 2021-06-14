@@ -30,6 +30,11 @@
 
 
 <img src="https://readme-jokes.vercel.app/api" ></img>
+<br>
+
+## Q: Why was the function sad after a successful first call?
+
+```A: It didn’t get a callback.``` 
 
 
 ## 🚀 Languages and Tools:
