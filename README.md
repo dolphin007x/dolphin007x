@@ -43,7 +43,7 @@
 
 # I'm currently working on my first BIG PROJECT! 
 
-(Hint : it's a clone of a POPULAR game, but unfortunately I can't release the source code yet **:-(**)
+(Hint : it's a clone of a POPULAR game, but unfortunately I can't release the source code yet)**:-(**
 
 
 ## 📊 My Github Stats
