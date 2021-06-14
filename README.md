@@ -16,6 +16,8 @@
 
 - 💬 Ask me about anything, I'm happy to help! 😁 ;
 
+- 🤔 I'm looking for help with p5.js and React
+
 - ⚡ Fun fact: I'm always exploring new stuff, literally every day!
 
 
