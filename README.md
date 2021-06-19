@@ -26,7 +26,9 @@
 
 ```QUICK UPDATES```
 
-## @ 12 June : Hey everyone ! This section is just some quick updates for you all 😁
+## @ 12 June : Hey everyone ! Sorry for not uploading recently, actually working on something 
+<h1>SECRET</h1>
+## that I'll be able to show you all soon 😀 <br>
 
  <h4>Some Jokes : </h4>
 
