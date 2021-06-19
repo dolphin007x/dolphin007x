@@ -19,7 +19,9 @@
 
 - 🤔 I'm looking for help with p5.js and React
 
-- ⚡ Fun fact: I'm always exploring new stuff, literally every day!
+- ⚡ Fun fact: I'm always exploring new stuff, literally every day! 
+- 🤔 I'm thinking, maybe, start learning Three.js ?
+- 😁 Also personal website coming soon :-)
 
 
 <br>
