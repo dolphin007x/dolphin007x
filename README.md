@@ -48,8 +48,6 @@
 
 # I'm currently working on my first BIG PROJECT! 
 
-(Hint : it's a clone of a POPULAR game, but unfortunately I can't release the source code yet 😥)
-
 
 ## 📊 My Github Stats
 <img align="center" alt="adatta1276 Github Stats" src="https://github-readme-stats.vercel.app/api?username=adatta1276&show_icons=true&hide_border=true&theme=dracula&background=000" />
