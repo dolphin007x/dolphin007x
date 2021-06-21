@@ -29,16 +29,17 @@
 ```QUICK UPDATES```
 
 ## @ 19 June : Hey everyone ! Sorry for not uploading recently, actually working on something SECRET that I'll be able to show you all soon 😀 <br>
+## @ 21 June : By the way, here's the link of my developing work, you can check it out 
 
- <h4>Some Jokes : </h4>
+ <h4>Some Jokes : </h4> 
 
 
 <img src="https://readme-jokes.vercel.app/api" ></img>
 <br>
 
-## Q: Why was the function sad after a successful first call?
+## Q: Why couldn’t the React component understand the joke?
 
-```A: It didn’t get a callback.``` 
+```A: Because it didn’t get the context.``` 
 
 
 ## 🚀 Languages and Tools:
