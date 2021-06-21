@@ -29,7 +29,7 @@
 ```QUICK UPDATES```
 
 ## @ 19 June : Hey everyone ! Sorry for not uploading recently, actually working on something SECRET that I'll be able to show you all soon 😀 <br>
-## @ 21 June : By the way, here's the link of my developing work, you can check it out 
+
 
  <h4>Some Jokes : </h4> 
 
