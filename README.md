@@ -55,7 +55,7 @@
 
  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=adatta1276&theme=dracula&background=000&ring=FFF&dates=FFFFFFFF&currStreakLabel=FC5C7D&hide_border=true&fire=D4431D&" alt="adatta1276" /></p>
-<details> <summary align="center"> </samp></summary><b>Note:</b>My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.</details>
+<details> <summary align="center"> </samp></summary><br>Note:</b> My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.<br></details>
 
 ---
 
@@ -69,7 +69,7 @@
 
 ---
 <!---
-[![Adatta1276's github activity graph](https://activity-graph.herokuapp.com/graph?username=adatta12766&theme=dracula&area=true)](https://github.com/adatta1276)
+[![Adatta1276's github activity graph](https://activity-graph.herokuapp.com/graph?username=adatta1276&theme=dracula&area=true)](https://github.com/adatta1276)
 <br>
 
 
