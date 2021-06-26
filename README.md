@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Adatta1276 ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=603&lines=I'm+a+beginner+coder+who+loves+to+explore+new+stuff!)](https://git.io/typing-svg) <br>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=000000&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="divyanshudhruv" /> </p> <br>
 
