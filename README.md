@@ -28,7 +28,7 @@
 
 ```QUICK UPDATES```
 
-## @ 19 June : Hey everyone ! Sorry for not uploading recently, actually working on something SECRET that I'll be able to show you all soon 😀 <br>
+## @ 19 June : Hey everyone ! Sorry for not uploading any projects recently, actually working on something SECRET that I'll be able to show you all soon 😀 <br>
 
 
  <h4>Some Jokes : </h4> 
