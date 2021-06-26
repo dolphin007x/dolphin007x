@@ -37,6 +37,8 @@
 <img src="https://readme-jokes.vercel.app/api" ></img>
 <br>
 
+<details><br>Note:</b>I am not the creator of these jokes and do not own the API, hence some inappropriate jokes may show up. <br></details>
+
 ## Q: Why couldn’t the React component understand the joke?
 
 ```A: Because it didn’t get the context.``` 
