@@ -30,6 +30,7 @@
 
 ## @ 19 June : Hey everyone ! Sorry for not uploading any projects recently, actually working on something SECRET that I'll be able to show you all soon 😀 <br>
 ## @ 26 June : Here's the link of my [developing project :](http://among-us-js.vercel.app/)
+## @27 June : Made the project public : [here it is](
 
  <h4>Some Jokes : </h4> 
 
