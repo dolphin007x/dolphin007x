@@ -60,6 +60,9 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=adatta1276&theme=dracula&background=000&ring=FFF&dates=FFFFFFFF&currStreakLabel=FC5C7D&hide_border=true&fire=D4431D&" alt="adatta1276" /></p>
 <details> <summary align="center"> </samp></summary><br>Note:</b> My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.<br></details>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adatta1276&theme=dracula" align="center" />
+</p>
+
 ---
 
 <div align="center">
