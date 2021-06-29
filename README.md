@@ -53,14 +53,14 @@
 
 
 ## 📊 My Github Stats
-<img align="center" alt="adatta1276 Github Stats" src="https://github-readme-stats.vercel.app/api?username=adatta1276&show_icons=true&hide_border=true&theme=dracula&background=000" />
+<img align="left" alt="adatta1276 Github Stats" src="https://github-readme-stats.vercel.app/api?username=adatta1276&show_icons=true&hide_border=true&theme=dracula&background=000" />
  
 
  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=adatta1276&theme=dracula&background=000&ring=FFF&dates=FFFFFFFF&currStreakLabel=FC5C7D&hide_border=true&fire=D4431D&" alt="adatta1276" /></p>
-<details> <summary align="center"> </samp></summary><br>Note:</b> My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.<br></details>
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com?user=adatta1276&theme=dracula&background=000&ring=FFF&dates=FFFFFFFF&currStreakLabel=FC5C7D&hide_border=true&fire=D4431D&" alt="adatta1276" /></p>
+<details> <summary align="center"> </samp></summary><br>Note:</b> My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.</details>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adatta1276&theme=dracula" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adatta1276&theme=dracula" align="bottom" />
 </p>
 
 ---
