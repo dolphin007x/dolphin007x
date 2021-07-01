@@ -28,8 +28,8 @@
 
 ## Who I am : 
 
--> I'm a student studying in India
--> I love Game Development, App Development, and I'm learning the fundamentals of ReactJS and Web Development currently, and also working on [this](https://github.com/adatta1276/Among-Us-Js/)
+> I'm a student studying in India <br>
+> I love Game Development, App Development, and I'm learning the fundamentals of ReactJS and Web Development currently, and also working on [this](https://github.com/adatta1276/Among-Us-Js/)
 
 
 ```QUICK UPDATES```
