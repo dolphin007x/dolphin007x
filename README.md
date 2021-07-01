@@ -61,7 +61,7 @@
 <details> <summary align="center"> </samp></summary><br>Note:</b> My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.</details>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adatta1276&theme=dracula" align="center" />
-</p>
+
 
 ---
 
