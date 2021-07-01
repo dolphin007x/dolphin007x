@@ -26,6 +26,12 @@
 
 <br>
 
+## Who I am : 
+
+-> I'm a student studying in India
+-> I love Game Development, App Development, and I'm learning the fundamentals of ReactJS and Web Development currently, and also working on [this](https://github.com/adatta1276/Among-Us-Js/)
+
+
 ```QUICK UPDATES```
 
 ## @ 19 June : Hey everyone ! Sorry for not uploading any projects recently, actually working on something SECRET that I'll be able to show you all soon 😀 <br>
