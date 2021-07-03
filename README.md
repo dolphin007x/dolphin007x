@@ -84,10 +84,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adatta1276&repo=Adatta1276&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/adatta1276"> 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://raw.githubusercontent.com/adatta1276/github-stats-transparent/output/generated/overview.svg" />
-</a>
 
 
 
