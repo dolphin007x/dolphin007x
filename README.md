@@ -86,7 +86,7 @@
 
 <a href="https://github.com/adatta1276"> 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/adatta1276/github-stats-transparent/output/generated/overview.svg" />
 </a>
 
 
