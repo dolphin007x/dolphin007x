@@ -84,6 +84,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adatta1276&repo=Adatta1276&theme=material-palenight" />
 </a>
 
+<a href="https://github.com/adatta1276"> 
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg" />
+</a>
+
+
+
 <details> <summary align="center"> </samp></summary><br>Note:</b> My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.</details>
 
 
