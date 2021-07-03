@@ -58,12 +58,31 @@
 # I'm currently working on my first BIG PROJECT! 
 
 
-## 📊 My Github Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adatta1276&show_icons=true&theme=dracula" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adatta1276&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adatta1276&theme=dracula" align="center" />
-</p> <br>
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
+
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adatta1276&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Adatta1276's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adatta1276&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adatta1276&repo=Among-Us-JS-Edition&theme=material-palenight" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adatta1276&repo=Adatta1276&theme=material-palenight" />
+</a>
 
 <details> <summary align="center"> </samp></summary><br>Note:</b> My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.</details>
 
