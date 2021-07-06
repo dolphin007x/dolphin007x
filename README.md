@@ -31,7 +31,9 @@
 ## Who I am : 
 
 > I'm a student studying in India <br>
-> I love Game Development, App Development, and I'm learning the fundamentals of ReactJS and Web Development currently, and also working on [this](https://github.com/Adatta1276/Among-Us-JS-Edition) <br> <br>
+> I love Game Development, App Development, and I'm learning the fundamentals of ReactJS and Web Development currently, and also working on [this](https://github.com/Adatta1276/Among-Us-JS-Edition) <br> 
+> In my free time, I love playing MineCraft and Among Us, and watching YouTube videos. I'm also into outdoor games. <br>
+
 
 
 ```QUICK UPDATES```
