@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="divyanshudhruv" /> </p> <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="Adatta1276" /> </p> <br>
 
 *I like to explore new things and make things for everyone ! Currently, the main languages I use are JavaScript, HTML, and CSS.*
 
