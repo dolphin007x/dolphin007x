@@ -91,7 +91,9 @@
 
 
 
-<details> <summary align="center"> </samp></summary><br>Note:</b> My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.</details>
+<details> <summary align="center"> </samp></summary><br>Note:</b> My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.</details><br>
+
+![Metrics](https://metrics.lecoq.io/adatta1276?template=classic&config.timezone=Asia%2FCalcutta)<br><br><br>
 
 
 
