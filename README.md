@@ -50,9 +50,9 @@
 
 <details><br></b>I am not the creator of these jokes and do not own the API, hence some inappropriate jokes may show up. <br></details>
 
-## Q: Why couldn’t the React component understand the joke?
+## Me : What are clouds made of?
 
-```A: Because it didn’t get the context.``` <br>
+```System admin : Mostly Linux servers```<br>
 # For contact or enquiries : [GMAIL](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=innovcoder22@gmail.com&su=Message+From+(Your%20Name%20Here)+(Your%20GitHub%20Username%20Here)&body) (This only works if you have a Gmail account, else [mail me directly](mailto:innovcoder22@gmail.com)).
 
 
