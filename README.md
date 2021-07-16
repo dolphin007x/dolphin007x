@@ -96,6 +96,8 @@
 
 ![Metrics](https://metrics.lecoq.io/adatta1276?template=classic&config.timezone=Asia%2FCalcutta)<br><br><br>
 
+![Adata1276's github activity graph](https://activity-graph.herokuapp.com/graph?username=adatta1276&theme=dracula) <br><br>
+
 <h3> If you like the aesthetic of this profile, and want to edit it yourself, here's a button to open it in VSCode 👇👇</h3>
 
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/adatta1276/adatta1276) <br>
