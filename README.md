@@ -2,7 +2,7 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=000000&size=15&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br>
 
-
+<img src="https://api.github.com/users/adatta1276/followers">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="Adatta1276" /> </p> <br>
 
