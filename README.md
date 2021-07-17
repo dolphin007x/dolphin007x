@@ -32,7 +32,12 @@
 
 > I'm a student studying in India <br>
 > I love Game Development, App Development, and I'm learning the fundamentals of ReactJS and Web Development currently, and also working on [this](https://github.com/Adatta1276/Among-Us-JS-Edition) <br> 
-> In my free time, I love playing MineCraft and Among Us, and watching YouTube videos. I'm also into outdoor games. <br>
+> In my free time, I love playing MineCraft and Among Us, and watching YouTube videos. I'm also into outdoor games. <br><br>
+
+## My workflow 
+
+-I'm a student, so I don't get too much time to code, but you will find me making 1 to 2 commits daily. Usually one of them will be on [this](https://github.com/adatta1276/Among-Us-JS-Edition/) or on [this](https://github.com/adatta1276/BrownianMotion/). I'll also probably edit my profile README later in the day. 
+-I'm always happy to hear from you guys, and also, I'm always happy to help 😉 <br><br>
 
 
 
