@@ -36,8 +36,8 @@
 
 ## My workflow 
 
--I'm a student, so I don't get too much time to code, but you will find me making 1 to 2 commits daily. Usually one of them will be on [this](https://github.com/adatta1276/Among-Us-JS-Edition/) or on [this](https://github.com/adatta1276/BrownianMotion/). I'll also probably edit my profile README later in the day. 
--I'm always happy to hear from you guys, and also, I'm always happy to help 😉 <br><br>
+I'm a student, so I don't get too much time to code, but you will find me making 1 to 2 commits daily. Usually one of them will be on [this](https://github.com/adatta1276/Among-Us-JS-Edition/) or on [this](https://github.com/adatta1276/BrownianMotion/). I'll also probably edit my profile README later in the day. <br>
+I'm always happy to hear from you guys, and also, I'm always happy to help 😉 <br><br>
 
 
 
