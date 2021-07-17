@@ -38,7 +38,7 @@
 
 ```QUICK UPDATES```
 
-
+<img src="https://github.com/Adatta1276/Adatta1276/blob/main/A%20HUGE%20THANK%20YOU%20TO%20ALL%20MY%20FOLLOWERS!.gif">
 
  <h4>Some Jokes : </h4> 
 
