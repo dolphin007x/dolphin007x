@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="Adatta1276" /> </p> <br>
 
 <img src="https://img.shields.io/badge/followers-33-red?style=for-the-badge"> <br>
-<img src="https://img.shields.io/badge/following-346-lightgreen?style=for-the-badge"> <br>
+<img src="https://img.shields.io/badge/following-347-lightgreen?style=for-the-badge"> <br>
 
 *I like to explore new things and make things for everyone ! Currently, the main languages I use are JavaScript, HTML, and CSS.*
 
