@@ -44,11 +44,11 @@ I'm always happy to hear from you guys, and also, I'm always happy to help 😉 
 
 
 
-```QUICK UPDATES
+```QUICK UPDATES```
 
-Hey, um, I'm sorry to not have been active for the past 10 days or so. I was
-pretty busy as I made some changes to my environment and had tons of assignments. Anyways, 
-I'm back now and will continue to do what I love! Love u all💖```
+Hey, um, I'm sorry to not have been active for the past 10 days or so. I was <br>
+pretty busy as I made some changes to my environment and had tons of assignments. Anyways, <br>
+I'm back now and will continue to do what I love! Love u all💖 <br><br>
 
 <img src="https://github.com/Adatta1276/Adatta1276/blob/main/A%20HUGE%20THANK%20YOU%20TO%20ALL%20MY%20FOLLOWERS!.gif">
 
