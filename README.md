@@ -99,7 +99,9 @@ next 20 days or so. Be back in a bit 😁 <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adatta1276&repo=Adatta1276&theme=material-palenight" />
 </a>
 
-<iframe src="https://js13kgames.com/games/hold-the-cloud/index.html#play" width="200" height="200"></iframe>
+<br><br><br>
+
+<iframe src="https://js13kgames.com/games/hold-the-cloud/index.html#play" width="200" height="200"></iframe> <br><br>
 
 
 <details> <summary align="center"> </samp></summary><br>Note:</b> My Programming languages is only a metric of the languages my public code consists of, and it doesn't reflect my experience or skill level.</details><br>
