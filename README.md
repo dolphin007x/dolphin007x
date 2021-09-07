@@ -3,10 +3,10 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=000000&size=15&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br>
 
 
-thanks for 40followers btw!
+thanks for 44 followers btw!
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="Adatta1276" /> </p> <br>
 
-<img src="https://img.shields.io/badge/followers-39-red?style=for-the-badge"> <br>
+<img src="https://img.shields.io/badge/followers-44-red?style=for-the-badge"> <br>
 <img src="https://img.shields.io/badge/following-413-lightgreen?style=for-the-badge"> <br>
 
 *I like to explore new things and make things for everyone ! Currently, the main languages I use are JavaScript, HTML, and CSS.*
@@ -46,10 +46,8 @@ I'm always happy to hear from you guys, and also, I'm always happy to help 😉 
 
 ```QUICK UPDATES```
 
-Hey, um, I'm sorry to not have been active for the past 10 days or so. I was <br>
-pretty busy as I made some changes to my environment and had tons of assignments. Anyways, <br>
-I'm back now and will continue to do what I love! Love u all💖 <br><br>
-
+Hi everyone, I've been REALLY busy over the last 1.5 monts or so, and still will be for the <br>
+next 20 days or so. Be back in a bit 😁 <br><br>
 <img src="https://github.com/Adatta1276/Adatta1276/blob/main/A%20HUGE%20THANK%20YOU%20TO%20ALL%20MY%20FOLLOWERS!.gif">
 
  <h4>Some Jokes : </h4> 
