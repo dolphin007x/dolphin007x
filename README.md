@@ -5,7 +5,7 @@
 
 Thanks for 44 followers btw!
 
-**Join my fresh, shiny Discord server for both fans and developers **  [](https://discord.gg/UGX6MBcy) !
+**Join my fresh, shiny Discord server for both fans and developers : https://discord.gg/UGX6MBcy !!**  
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="Adatta1276" /> </p> <br>
