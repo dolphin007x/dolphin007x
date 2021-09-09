@@ -7,6 +7,9 @@ Thanks for 44 followers btw!
 
 **Join my fresh, shiny Discord server for both fans and developers : https://discord.gg/UGX6MBcy !!**  
 
+```HEY EVERYONE```**, very special announcement!!!! I have 66 followers right now here on Github, at the time of writing this. If at least 40 of you join 
+my Discord server** [CodersChat](https://discord.gg/UGX6MBcy) **, I will start full-fledged work on 3d projects!! Go on, just DO IT!!!**
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="Adatta1276" /> </p> <br>
 
