@@ -3,7 +3,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=000000&size=15&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br>
 
 
-Thanks for 44 followers btw!
+Thanks for 66 followers btw!
 
 **Join my fresh, shiny Discord server for both fans and developers : https://discord.gg/UGX6MBcy !!**  
 
@@ -13,7 +13,7 @@ my Discord server** [CodersChat](https://discord.gg/UGX6MBcy) **, I will start f
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="Adatta1276" /> </p> <br>
 
-<img src="https://img.shields.io/badge/followers-44-red?style=for-the-badge"> <br>
+<img src="https://img.shields.io/badge/followers-66-red?style=for-the-badge"> <br>
 <img src="https://img.shields.io/badge/following-613-lightgreen?style=for-the-badge"> <br>
 
 *I like to explore new things and make things for everyone ! Currently, the main languages I use are JavaScript, HTML, and CSS.*
