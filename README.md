@@ -5,7 +5,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=000000&size=15&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br>
 
 
-Thanks for 66 followers btw!
+*Thanks for 103 followers btw!*
 
 **Join my fresh, shiny Discord server for both fans and developers : https://discord.gg/UGX6MBcy !!**  
 
