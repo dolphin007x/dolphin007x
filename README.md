@@ -5,12 +5,12 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=000000&size=15&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br>
 
 
-**Hello everyone, firstly, please do join the [Discord](https://discord.gg/J6E3akcx), extremely sorry for not updating the link for the last few months, secondly, I will be posting dev builds of the app that I am currently working on in the server, and all those who join will get special server roles and mentions in the website once the app reaches the first public build stage. SO SORRY for being inactive over the last month, I had exams (if you didn't know, I'm a student 😁) and also have been consistently working on the app (I can't show the code yet publicly), and well, that is mainly why I've been inactive for so long,  but I will remain active on the server, so please do join. Thanks a lot for 130+ followers, I genuinely cannot belive WE FREAKING HIT 100 FOLLOWERS AND COUNTING, and love you all! Anyways, see you on the server! Cheers 😄**
+**Hello everyone, firstly, please do join the [Discord](https://dsc.gg/coderschat), extremely sorry for not updating the link for the last few months, secondly, I will be posting dev builds of the app that I am currently working on in the server, and all those who join will get special server roles and mentions in the website once the app reaches the first public build stage. SO SORRY for being inactive over the last month, I had exams (if you didn't know, I'm a student 😁) and also have been consistently working on the app (I can't show the code yet publicly), and well, that is mainly why I've been inactive for so long,  but I will remain active on the server, so please do join. Thanks a lot for 130+ followers, I genuinely cannot belive WE FREAKING HIT 100 FOLLOWERS AND COUNTING, and love you all! Anyways, see you on the server! Cheers 😄**
 
-**Join my fresh, shiny Discord server for both fans and developers : https://discord.gg/J6E3akcx !!**  
+**Join my fresh, shiny Discord server for both fans and developers : https://dsc.gg/coderschat !!**  
 
 ```HEY EVERYONE```**, very special announcement!!!! I have 66 followers right now here on Github, at the time of writing this. If at least 40 of you join 
-my Discord server** [CodersChat](https://discord.gg/J6E3akcx) **, I will start full-fledged work on 3d projects!! Go on, just DO IT!!!**
+my Discord server** [CodersChat](https://dsc.gg/coderschat) **, I will start full-fledged work on 3d projects!! Go on, just DO IT!!!**
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="Adatta1276" /> </p> <br>
