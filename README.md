@@ -9,16 +9,16 @@
 
 **Join my fresh, shiny Discord server for both fans and developers : https://dsc.gg/coderschat !!**  
 
-```HEY EVERYONE```**, very special announcement!!!! I have 66 followers right now here on Github, at the time of writing this. If at least 40 of you join 
-my Discord server** [CodersChat](https://dsc.gg/coderschat) **, I will start full-fledged work on 3d projects!! Go on, just DO IT!!!**
+```HEY EVERYONE```**, very special announcement!!!! I have 152 followers right now here on Github, at the time of writing this. If at least 40 of you join 
+my Discord server** [CodersChat](https://dsc.gg/coderschat) **, I will start full-fledged work on Flutter projects!! Go on, just DO IT!!!**
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="Adatta1276" /> </p> <br>
 
-<img src="https://img.shields.io/badge/followers-127-red?style=for-the-badge"> <br>
-<img src="https://img.shields.io/badge/following-693-lightgreen?style=for-the-badge"> <br>
+<img src="https://img.shields.io/badge/followers-152-red?style=for-the-badge"> <br>
+<img src="https://img.shields.io/badge/following-715-lightgreen?style=for-the-badge"> <br>
 
-*I like to explore new things and make things for everyone ! Currently, the main languages I use are JavaScript, HTML, and CSS.*
+*I like to explore new things and make things for everyone ! Currently, the main technologies I use are JavaScript, HTML, CSS, Dart(Flutter) and C++.*
 
 
 
@@ -31,10 +31,10 @@ my Discord server** [CodersChat](https://dsc.gg/coderschat) **, I will start ful
 
 - 💬 Ask me about anything, I'm happy to help! 😁 ;
 
-- 🤔 I'm looking for help with p5.js and React
+- 🤔 I'm looking for help with Flutter and React
 
-- ⚡ Fun fact: I'm always exploring new stuff, literally every day! 
-- 🤔 I'm thinking, maybe, start learning Three.js ?
+- ⚡ Fun fact: I'm always exploring new stuff, literally every day!
+
 - 😁 Also personal website coming soon :-)
 
 
@@ -43,21 +43,16 @@ my Discord server** [CodersChat](https://dsc.gg/coderschat) **, I will start ful
 ## Who I am : 
 
 > I'm a student studying in India <br>
-> I love Game Development, App Development, and I'm learning the fundamentals of ReactJS and Web Development currently, and also working on [this](https://github.com/Adatta1276/Among-Us-JS-Edition) <br> 
-> In my free time, I love playing MineCraft and Among Us, and watching YouTube videos. I'm also into outdoor games. <br><br>
+> I love Game Development, App Development, and I'm learning the fundamentals of ReactJS and Web Development currently, and also working on [this](https://github.com/Adatta1276/guide-companion) <br> 
+> In my free time, I love playing Minecraft and Among Us, and watching YouTube videos. I'm also into outdoor games. <br><br>
 
 ## My workflow 
 
-I'm a student, so I don't get too much time to code, but you will find me making 1 to 2 commits daily. Usually one of them will be on [this](https://github.com/adatta1276/Among-Us-JS-Edition/) or on [this](https://github.com/adatta1276/BrownianMotion/). I'll also probably edit my profile README later in the day. <br>
+I'm a student, so I don't get too much time to code, but you will find me making 8-12 commits per week.  I'll also keep on editing my profile README every now and then. <br>
 I'm always happy to hear from you guys, and also, I'm always happy to help 😉 <br><br>
 
 
 
-```QUICK UPDATES```
-
-Hi everyone, I've been REALLY busy over the last 1.5 monts or so, and still will be for the <br>
-next 20 days or so. Be back in a bit 😁 <br><br>
-<img src="https://github.com/Adatta1276/Adatta1276/blob/main/A%20HUGE%20THANK%20YOU%20TO%20ALL%20MY%20FOLLOWERS!.gif">
 
  <h4>Some Jokes : </h4> 
 
@@ -67,9 +62,7 @@ next 20 days or so. Be back in a bit 😁 <br><br>
 
 <details><br></b>I am not the creator of these jokes and do not own the API, hence some inappropriate jokes may show up. <br></details>
 
-## Q. Who used the internet before it was cool?
 
-```Answer : Httpsters```<br>
 # For contact or enquiries : [GMAIL](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=innovcoder22@gmail.com&su=Message+From+(Your%20Name%20Here)+(Your%20GitHub%20Username%20Here)&body) (This only works if you have a Gmail account, else [mail me directly](mailto:innovcoder22@gmail.com)).
 
 
@@ -77,23 +70,13 @@ next 20 days or so. Be back in a bit 😁 <br><br>
 <p align="centre"> < <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> > <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://minecraft.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" alt="minecraft" width="40" height="40"/> </a> </p>
 <br>
 
-# I'm currently working on my first BIG PROJECT! <br>
-
-
-
-
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
 
 
 <a href="https://github.com/adatta1276">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adatta1276&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Adatta1276's github stats" />
 </a>
+
+
 <a href="https://github.com/adatta1276">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adatta1276&layout=compact&theme=material-palenight" />
@@ -126,12 +109,7 @@ next 20 days or so. Be back in a bit 😁 <br><br>
 
 ---
 
-<div align="center">
-  <h4>🏆 Github Profile Trophies</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adatta1276&column=7"/>
-  </a>
-</div>
+
 
 
 ---
