@@ -4,11 +4,6 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=000000&size=15&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br>
 
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
-
 **Hello everyone, firstly, please do join the [Discord](https://dsc.gg/coderschat), extremely sorry for not updating the link for the last few months, secondly, I will be posting dev builds of the app that I am currently working on in the server, and all those who join will get special server roles and mentions in the website once the app reaches the first public build stage. SO SORRY for being inactive over the last month, I had exams (if you didn't know, I'm a student 😁) and also have been consistently working on the app (I can't show the code yet publicly), and well, that is mainly why I've been inactive for so long,  but I will remain active on the server, so please do join. Thanks a lot for 130+ followers, I genuinely cannot belive WE FREAKING HIT 100 FOLLOWERS AND COUNTING, and love you all! Anyways, see you on the server! Cheers 😄**
 
 **Join my fresh, shiny Discord server for both fans and developers : https://dsc.gg/coderschat !!**  
