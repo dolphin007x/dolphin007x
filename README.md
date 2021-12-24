@@ -9,7 +9,7 @@
 
 **Join my fresh, shiny Discord server for both fans and developers : https://dsc.gg/coderschat !!**  
 
-```HEY EVERYONE```**, very special announcement!!!! I have 152 followers right now here on Github, at the time of writing this. If at least 40 of you join 
+```HEY EVERYONE```**, very special announcement!!!! I have 156 followers right now here on Github, at the time of writing this. If at least 40 of you join 
 my Discord server** [CodersChat](https://dsc.gg/coderschat) **, I will start full-fledged work on Flutter projects!! Go on, just DO IT!!!**
 
 
