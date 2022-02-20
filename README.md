@@ -1,5 +1,8 @@
 <h1 align="center">Hey there, I'm Adatta1276 ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <br<br>
 
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FF0000&size=15&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br><br>
+
+
 <h2>My flagship project : </h2><br><br>
 <a href="https://github.com/adatta1276/productiveLife">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -7,7 +10,7 @@
 </a><br><br>
 
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=000000&size=15&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br>
+
 
 **Join my fresh, shiny Discord server for both fans and developers : https://dsc.gg/coderschat !!**  <br>
 **Just a note : I recently cleaned up my profile, removing several old and inactive repositories. Don't worry, I wasn't hacked 😛**
