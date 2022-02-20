@@ -47,17 +47,6 @@ I'm a student, so I don't get too much time to code, but you will find me making
 I'm always happy to hear from you guys, and also, I'm always happy to help 😉 <br><br>
 
 
-
-
- <h4>Some Jokes : </h4> 
-
-
-<img src="https://readme-jokes.vercel.app/api" ></img>
-<br>
-
-<details><br></b>I am not the creator of these jokes and do not own the API, hence some inappropriate jokes may show up. <br></details>
-
-
 # For contact or enquiries : [GMAIL](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=innovcoder22@gmail.com&su=Message+From+(Your%20Name%20Here)+(Your%20GitHub%20Username%20Here)&body) (This only works if you have a Gmail account, else [mail me directly](mailto:innovcoder22@gmail.com)).
 
 
@@ -77,9 +66,9 @@ I'm always happy to hear from you guys, and also, I'm always happy to help 😉 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adatta1276&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/adatta1276/Among-Us-JS-Edition">
+<a href="https://github.com/adatta1276/productiveLife">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adatta1276&repo=Among-Us-JS-Edition&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adatta1276&repo=productiveLife&theme=material-palenight" />
 </a>    
 <a href="https://github.com/adatta1276/adatta1276"> 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
