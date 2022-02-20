@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/followers-161-red?style=for-the-badge"> <br>
 <img src="https://img.shields.io/badge/following-740-lightgreen?style=for-the-badge"> <br>
 
-*I like to explore new things and make things for everyone ! Currently, the main technologies I use are JavaScript(web dev+ React Native), HTML, CSS and C++.*
+*I like to explore new things and make things for everyone ! Currently, the main technologies I use are JavaScript(web dev+ React Native), HTML, CSS and Python.*
 
 
 
