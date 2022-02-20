@@ -32,7 +32,7 @@
 
 - 💬 Ask me about anything, I'm happy to help! 😁 ;
 
-- 🤔 I'm looking for help with Flutter and React
+- 🤔 I'm looking for help with React Native and CSS...
 
 - ⚡ Fun fact: I'm always exploring new stuff, literally every day!
 
@@ -44,7 +44,7 @@
 ## Who I am : 
 
 > I'm a student studying in India <br>
-> I love Game Development, App Development, and I'm learning the fundamentals of ReactJS and Web Development currently, and also working on [this](https://github.com/Adatta1276/guide-companion) <br> 
+> I love App Development, and I'm learning the fundamentals of React Native currently, and actively working on [this](https://github.com/Adatta1276/productiveLife) <br> 
 > In my free time, I love playing Minecraft and Among Us, and watching YouTube videos. I'm also into outdoor games. <br><br>
 
 ## My workflow 
