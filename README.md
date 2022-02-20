@@ -7,12 +7,12 @@
 <a href="https://github.com/adatta1276/productiveLife">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adatta1276&repo=productiveLife&theme=material-palenight" />
-</a><br><br>
+</a><br><br><br>
 
 
 
 
-**Join my fresh, shiny Discord server for both fans and developers : https://dsc.gg/coderschat !!**  <br>
+<br>**Join my fresh, shiny Discord server for both fans and developers : https://dsc.gg/coderschat !!**  <br>
 **Just a note : I recently cleaned up my profile, removing several old and inactive repositories. Don't worry, I wasn't hacked 😛**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adatta1276&label=Profile%20Views&color=00ffff&style=flat" alt="Adatta1276" /> </p> <br>
