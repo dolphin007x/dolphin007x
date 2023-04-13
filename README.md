@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Adatta1276 ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <br<br>
+<h1 align="center">Hey there, I'm dolphin007x ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <br<br>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ADD8E6&size=15&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br><br>
 
