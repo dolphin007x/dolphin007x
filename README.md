@@ -63,7 +63,7 @@ I'm always happy to hear from you guys, and also, I'm always happy to help 😉 
 
 
 <a href="https://github.com/adatta1276">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adatta1276&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Adatta1276's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dolphin007x&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Adatta1276's github stats" />
 </a>
 
 
