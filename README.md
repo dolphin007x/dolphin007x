@@ -1,8 +1,8 @@
-# dolphin007x's GitHub Profile
+# PixelPirate's GitHub Profile
 
 ![Profile Banner](https://cdn.pixabay.com/photo/2017/08/20/14/37/eat-2661935_960_720.jpg)
 
-Hey there, welcome to my GitHub profile! I'm dolphin007x, a learner and enthusiast of artificial intelligence and machine learning. I'm currently in the process of learning Javascript and Python to further my knowledge in this exciting field.
+Hey there, welcome to my GitHub profile! I'm PixelPirate, a learner and enthusiast of artificial intelligence and machine learning. I'm currently in the process of learning Javascript and Python to further my knowledge in this exciting field.
 
 ## About Me
 
@@ -23,6 +23,6 @@ I'm constantly working on new projects to improve my skills and put my knowledge
 
 ## Contact Me
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to me on [Gmail](mailto:dattaayush08@gmail.com) or [Twitter](https://twitter.com/dolphin007x). I'm always happy to connect with like-minded individuals and learn from others in the community.
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to me on [Gmail](mailto:dattaayush08@gmail.com) or [Twitter](https://twitter.com/adatta1276). I'm always happy to connect with like-minded individuals and learn from others in the community.
 
 Thanks for stopping by!
