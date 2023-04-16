@@ -21,6 +21,8 @@ I'm constantly working on new projects to improve my skills and put my knowledge
 -   Programming Languages: Java, Javascript, HTML/CSS
 -   Tools: Git, Jupyter Notebook, Notion, VS Code
 
+## Stats 
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelpirate1)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact Me
 
 If you have any questions, suggestions, or just want to say hi, feel free to reach out to me on [Gmail](mailto:dattaayush08@gmail.com) or [Twitter](https://twitter.com/adatta1276). I'm always happy to connect with like-minded individuals and learn from others in the community.
