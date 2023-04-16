@@ -1,8 +1,8 @@
-# PixelPirate's GitHub Profile
+# dolphin007x's GitHub Profile
 
 ![Profile Banner](https://cdn.pixabay.com/photo/2017/08/20/14/37/eat-2661935_960_720.jpg)
 
-Hey there, welcome to my GitHub profile! I'm PixelPirate, a learner and enthusiast of artificial intelligence and machine learning. I'm currently in the process of learning Javascript and Python to further my knowledge in this exciting field.
+Hey there, welcome to my GitHub profile! I'm dolphin007x, a learner and enthusiast of artificial intelligence and machine learning. I'm currently in the process of learning Javascript and Python to further my knowledge in this exciting field.
 
 ## About Me
 
@@ -22,7 +22,7 @@ I'm constantly working on new projects to improve my skills and put my knowledge
 -   Tools: Git, Jupyter Notebook, Notion, VS Code
 
 ## Stats 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelpirate1)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolphin007x)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact Me
 
 If you have any questions, suggestions, or just want to say hi, feel free to reach out to me on [Gmail](mailto:dattaayush08@gmail.com) or [Twitter](https://twitter.com/adatta1276). I'm always happy to connect with like-minded individuals and learn from others in the community.
