@@ -10,7 +10,7 @@ I'm a curious individual who loves to explore new technologies and find innovati
 
 ## Projects
 
-I'm constantly working on new projects to improve my skills and put my knowledge into practice. Here are some of the projects that I'm currently working on:
+I'm constantly working on new projects to improve my skills and put my knowledge into practice. Here are some of the major projects that I'm currently working on:
 
 -   **Project 1:** A bike speedometer and odometer complete with a DIY MP3 player and a host of workout statistics.
 -   **Project 2:** A Raspberry PI weather station, bundled with an Android app and weather predictions powered by AI
