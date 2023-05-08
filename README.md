@@ -15,6 +15,7 @@ I'm constantly working on new projects to improve my skills and put my knowledge
 -   **Project 1:** A bike speedometer and odometer complete with a DIY MP3 player and a host of workout statistics.
 -   **Project 2:** A Raspberry PI weather station, bundled with an Android app and weather predictions powered by AI
 -   **Project 3:** A compilation of Python solutions for LeetCode problems
+-   **Project 4:** My own website
 
 ## Skills
 
