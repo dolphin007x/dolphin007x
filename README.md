@@ -12,13 +12,13 @@ I'm a curious individual who loves to explore new technologies and find innovati
 
 I'm constantly working on new projects to improve my skills and put my knowledge into practice. Here are some of the projects that I'm currently working on:
 
--   **Project 1:** A bike speedometer and odometer complete with an AI locking mechanism.
+-   **Project 1:** A bike speedometer and odometer complete with a DIY MP3 player and a host of workout statistics.
 -   **Project 2:** A Raspberry PI weather station, bundled with an Android app and weather predictions powered by AI
--   **Project 3:** A compilation of JavaScript solutions for LeetCode problems (DSA)
+-   **Project 3:** A compilation of Python solutions for LeetCode problems
 
 ## Skills
 
--   Programming Languages: Java, Javascript, HTML/CSS
+-   Programming Languages: Javascript, HTML/CSS, C++ and Java (minimum experience), Python (novice)
 -   Tools: Git, Jupyter Notebook, Notion, VS Code
 
 ## Stats 
