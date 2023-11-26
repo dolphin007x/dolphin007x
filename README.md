@@ -19,7 +19,8 @@ I'm constantly working on new projects to improve my skills and put my knowledge
 
 ## Skills
 
--   Programming Languages: Javascript, HTML/CSS, C++ and Java (minimum experience), Python (novice)
+-   Programming Languages: Javascript, Python
+-   Also know a bit of HTML/CSS/React Native/Dart/C++
 -   Tools: Git, Jupyter Notebook, Notion, VS Code
 
 ## Stats 
